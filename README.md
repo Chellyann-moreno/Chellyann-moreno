@@ -1,15 +1,12 @@
+## 🚀 Ahoy, fellow data enthusiasts and coding adventurers! 🤖📊
 <img hight="300" width="480" align="right" alt="GIF" src="images/Killua Hi.gif">
 
+I'm a Data Scientist with a twist – not only do I wield the power of predictive modeling, data processing, and data mining algorithms, but I also come armed with an active security clearance earned during my heroic days as an Army veteran! 💂‍♂️🔒
 
+When I'm not crunching numbers and taming datasets, you can find me roaming the wild lands of the Python open-source community, waving the banner of innovation high! 🐍🌐
 
+But that's not all – my heart beats faster for the world of deep reinforcement learning, where machines learn to conquer challenges just like we do! 🧠🎮
 
-- 🔭 I’m currently working on getting my certificate as a Data Scientist
-- 🌱I'm currently learning Git
-- 👯 I’m looking to work on AI machines in the future
-- 🤔 I’m looking for help with anything and everything related to Data Science 
-- 📫 How to reach me: Chellyannmoreno@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love books, tv shows and my pets :dog: :cat:, Spanish is my first language
 
 ## Contact Me:
 
