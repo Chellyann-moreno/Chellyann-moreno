@@ -5,10 +5,12 @@ When I'm not crunching numbers and taming datasets, you can find me roaming the 
 
 But that's not all – my heart beats faster for the world of deep reinforcement learning, where machines learn to conquer challenges just like we do! 🧠🎮
 
+</a>
 <img hight="300" width="480" align="right" alt="GIF" src="images/Killua Hi.gif">
 
 
 
+</a>
 ## Contact Me:
 
 <img hight="320" width="450" align="right" alt="GIF" src="images/Killua.gif">
