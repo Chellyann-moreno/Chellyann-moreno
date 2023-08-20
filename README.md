@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-    <img height="320" width="900" alt="GIF" src="images/Killua Hi.gif">
+    <img height="300" width="800" alt="GIF" src="images/Killua Hi.gif">
 </div>
 
 
