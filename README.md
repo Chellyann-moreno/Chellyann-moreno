@@ -1,6 +1,6 @@
 ## Hello, fellow data enthusiasts and coding adventurers! 🤖📊
 
-<img hight="300" width="480" align="right" alt="GIF" src="images/Killua Hi.gif">
+<img hight="300" width="480" align="center" alt="GIF" src="images/Killua Hi.gif">
 
 
 I'm a Data Scientist with a twist – not only do I wield the power of predictive modeling, data processing, and data mining algorithms, but I also come armed with an active security clearance earned during my heroic days as an Army veteran! 💂‍♂️🔒
