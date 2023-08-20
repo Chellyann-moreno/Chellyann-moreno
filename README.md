@@ -1,4 +1,4 @@
-### Hola!  :bowtie:
+<img hight="370" width="500" align="right" alt="GIF" src="images/Killua.gif">
 
 - 🔭 I’m currently working on getting my certificate as a Data Scientist
 - 🌱I'm currently learning Git
